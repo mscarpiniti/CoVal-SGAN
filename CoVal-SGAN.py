@@ -22,8 +22,8 @@ which should be installed:
 @software{j_agustin_barrachina_2021_4452131,
   author       = {J Agustin Barrachina},
   title        = {Complex-Valued Neural Networks (CVNN)},
-  month        = jan,
-  year         = 2021,
+  month        = {jan},
+  year         = {2021},
   publisher    = {Zenodo},
   version      = {v1.6},
   doi          = {10.5281/zenodo.4452131},
@@ -35,15 +35,14 @@ See also: https://github.com/NEGU93/cvnn
 
 The implementation of complex batch normmalization is that proposed in:
     
-    @ARTICLE {,
+    @ARTICLE {Trabelsi2017,
     author  = "Chiheb Trabelsi, Olexa Bilaniuk, Ying Zhang, Dmitriy Serdyuk, Sandeep Subramanian, João Felipe Santos, Soroush Mehri, Negar Rostamzadeh, Yoshua Bengio, Christopher J Pal",
     title   = "Deep Complex Networks",
     journal = "arXiv preprint arXiv:1705.09792",
     year    = "2017"
 }
     
-    This implementation is available here:
-    https://github.com/ChihebTrabelsi/deep_complex_networks/blob/master/complexnn/bn.py
+This implementation is available here: https://github.com/ChihebTrabelsi/deep_complex_networks/blob/master/complexnn/bn.py
 
 
 Created on Wed Apr 14 15:39:21 2021
