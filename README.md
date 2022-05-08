@@ -17,7 +17,6 @@ See also: https://github.com/NEGU93/cvnn
 The implementation of complex batch normmalization is that proposed in:
 
 <a id="3">[3]</a> 
-Chiheb Trabelsi, Olexa Bilaniuk, Ying Zhang, Dmitriy Serdyuk, Sandeep Subramanian, João Felipe Santos, Soroush Mehri, Negar Rostamzadeh, Yoshua Bengio, Christopher J Pal, Deep Complex Networks, arXiv:1705.09792", 2017.
+Chiheb Trabelsi, Olexa Bilaniuk, Ying Zhang, Dmitriy Serdyuk, Sandeep Subramanian, João Felipe Santos, Soroush Mehri, Negar Rostamzadeh, Yoshua Bengio, Christopher J Pal, Deep Complex Networks, [arXiv:1705.09792](https://arxiv.org/abs/1705.09792), 2017.
 
 This implementation is available here: https://github.com/ChihebTrabelsi/deep_complex_networks/blob/master/complexnn/bn.py
-
