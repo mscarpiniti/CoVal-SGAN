@@ -8,28 +8,16 @@ Specifically, the proposed CoVal-SGAN is used to generate new synthetic spectrog
 
 The complex-valued implementation of the proposed GAN exploits the following software package, which should be installed:
 
-@SOFTWARE {j_agustin_barrachina_2021_4452131,
-  author       = "J Agustin Barrachina",
-  title        = "Complex-Valued Neural Networks (CVNN)",
-  month        = "jan",
-  year         = "2021",
-  publisher    = "Zenodo",
-  version      = "v1.6",
-  doi          = "10.5281/zenodo.4452131",
-  url          = "https://doi.org/10.5281/zenodo.4452131"
-}
+<a id="2">[2]</a> 
+J Agustin Barrachina, Complex-Valued Neural Networks (CVNN), v.16, January 2021, Zenodo, https://doi.org/10.5281/zenodo.4452131
 
 See also: https://github.com/NEGU93/cvnn
 
 
 The implementation of complex batch normmalization is that proposed in:
-    
-    @ARTICLE {Trabelsi2017,
-    author  = "Chiheb Trabelsi, Olexa Bilaniuk, Ying Zhang, Dmitriy Serdyuk, Sandeep Subramanian, João Felipe Santos, Soroush Mehri, Negar Rostamzadeh, Yoshua Bengio, Christopher J Pal",
-    title   = "Deep Complex Networks",
-    journal = "arXiv preprint arXiv:1705.09792",
-    year    = "2017"
-}
-    
+
+<a id="3">[3]</a> 
+Chiheb Trabelsi, Olexa Bilaniuk, Ying Zhang, Dmitriy Serdyuk, Sandeep Subramanian, João Felipe Santos, Soroush Mehri, Negar Rostamzadeh, Yoshua Bengio, Christopher J Pal, Deep Complex Networks, arXiv:1705.09792", 2017.
+
 This implementation is available here: https://github.com/ChihebTrabelsi/deep_complex_networks/blob/master/complexnn/bn.py
 
