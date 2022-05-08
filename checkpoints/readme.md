@@ -1,0 +1,1 @@
+In this folder temporary checkpoints will be saved.

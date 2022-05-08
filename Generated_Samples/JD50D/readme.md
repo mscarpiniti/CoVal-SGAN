@@ -1,0 +1,1 @@
+In this folder will be generated the new spectrogram samples related to the augmented class.
