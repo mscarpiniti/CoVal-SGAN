@@ -1,7 +1,7 @@
 # CoVal-SGAN
 This script implements the CoVal-SGAN, a complex-valued GAN architecture working with the audio spectrogram for an effective audio data augmentation proposed in:
 
-@INPROCEEDINGS{Scarpiniti2022,
+@INPROCEEDINGS {Scarpiniti2022,
   author    = {Michele Scarpiniti, Cristiano Mauri, Danilo Comminiello, Aurelio Uncini},
   booktitle = {2022 International Joint Conference on Neural Networks (IJCNN 2022)},
   title     = {CoVal-SGAN: A Complex-Valued Spectral GAN architecture for the effective audio data augmentation in construction sites},
@@ -18,7 +18,7 @@ for the classification of different equipments on construction sites.
 The complex-valued implementation of the proposed GAN exploits the following software package,
 which should be installed:
 
-@SOFTWARE{j_agustin_barrachina_2021_4452131,
+@SOFTWARE {j_agustin_barrachina_2021_4452131,
   author       = {J Agustin Barrachina},
   title        = {Complex-Valued Neural Networks (CVNN)},
   month        = jan,
