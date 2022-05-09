@@ -1,0 +1,7 @@
+numpy
+librosa
+time
+matplotlib
+skimage
+cvnn
+tensorflow
