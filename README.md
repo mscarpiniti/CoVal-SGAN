@@ -15,4 +15,4 @@ The implementation of complex batch normmalization is that proposed in [3]. This
 
 
 ## Requirements
-To use the CoVal-SGAN, the user, in addition to the normal Python modules (tensorflow, librosa, numpy), must install the cvnn library (https://github.com/NEGU93/cvnn) and download the bn.py file (https://github.com/ChihebTrabelsi/deep_complex_networks/blob/master/complexnn/bn.py). Additional details can be found in the requirements.txt file.
+To use the CoVal-SGAN, the user, in addition to the normal Python modules (tensorflow, librosa, numpy), must install the cvnn library (https://github.com/NEGU93/cvnn) and download the bn.py file (https://github.com/ChihebTrabelsi/deep_complex_networks/blob/master/complexnn/bn.py). Additional details can be found in the 'requirements.txt' file.
