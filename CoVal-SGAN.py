@@ -115,6 +115,10 @@ import cvnn
 from bn import ComplexBatchNormalization
 
 
+#======================================================================================
+#                        Architectures
+#======================================================================================
+
 complex_leaky_relu = layers.Lambda(lambda z: tf.cast(tf.complex(tf.nn.leaky_relu(tf.math.real(z), 0.3, None),
                               tf.nn.leaky_relu(tf.math.imag(z), 0.3, None)), dtype=z.dtype))
 
@@ -248,9 +252,9 @@ noise_in   = tf.add(noise_real, tf.multiply(noise_imag, unit_imag))
 sample_spec = next(iter(dataset)) # Test sample for comparison
 
 
-#==================================================================================================================
-#                                       Training
-#==================================================================================================================
+#======================================================================================
+#                        Training
+#======================================================================================
 
 @tf.function
 def train_step(images):
