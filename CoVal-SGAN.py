@@ -313,9 +313,7 @@ def generate_and_save_images(model, epoch, test_input, sample_spec):
     plt.savefig('image_at_epoch_{:04d}.png'.format(epoch))
     
     
-    # If uncommented, real and imaginary parts of the generated samples are plotted
-    # import librosa.display as lbdp
-    
+    # If uncommented, real and imaginary parts of the generated samples are plotted   
     # plt.figure()
     # lb.display.specshow(real_pred, sr=samplerate, hop_length=hop_length, x_axis='time', y_axis='mel')
     # plt.colorbar(format='%+2.0f dB')
