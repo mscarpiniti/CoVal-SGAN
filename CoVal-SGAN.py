@@ -3,7 +3,7 @@
 This script implements the CoVal-SGAN proposed in:
 
 @InProceedings{Scarpiniti2022,
-  author    = {Michele Scarpiniti, Cristiano Mauri, Danilo Comminiello, Aurelio Uncini},
+  author    = {Michele Scarpiniti, Cristiano Mauri, Danilo Comminiello, Aurelio Uncini, Yong-Cheol Lee},
   booktitle = {2022 International Joint Conference on Neural Networks (IJCNN 2022)},
   title     = {CoVal-SGAN: A Complex-Valued Spectral GAN architecture for the effective audio data augmentation in construction sites},
   year      = {2022},
