@@ -7,7 +7,7 @@ The complex-valued implementation of the proposed GAN exploits the following sof
 
 The implementation of complex batch normmalization is that proposed in [3]. This implementation is available here: https://github.com/ChihebTrabelsi/deep_complex_networks/blob/master/complexnn/bn.py
 
-1. Michele Scarpiniti, Cristiano Mauri, Danilo Comminiello, Aurelio Uncini, "CoVal-SGAN: A Complex-Valued Spectral GAN architecture for the effective audio data augmentation in construction sites", *2022 International Joint Conference on Neural Networks (IJCNN 2022)*, pp. 1--8, Padova, Italy, 2022.
+1. Michele Scarpiniti, Cristiano Mauri, Danilo Comminiello, Aurelio Uncini, Yong-Cheol Lee, "CoVal-SGAN: A Complex-Valued Spectral GAN architecture for the effective audio data augmentation in construction sites", *2022 International Joint Conference on Neural Networks (IJCNN 2022)*, pp. 1--8, Padova, Italy, 2022.
 
 2. J Agustin Barrachina, "Complex-Valued Neural Networks (CVNN)", v.16, January 2021, Zenodo, https://doi.org/10.5281/zenodo.4452131
 
